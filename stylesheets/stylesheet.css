@@ -10,6 +10,14 @@ body {
 
 /* General & 'Reset' Stuff */
 
+canvas{
+  border:1px solid black;
+  position: absolute;
+  top:50%;
+  left:50%;
+  
+}
+
 .container {
   width: 90%;
   max-width: 600px;
